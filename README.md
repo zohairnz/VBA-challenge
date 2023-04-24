@@ -1,6 +1,6 @@
 # VBA-challenge
 Module 2 Challenge
-This submission includes the VBA script files for the Module 2 Challenge. 
+This submission includes the VBA script files for the Module 2 Challenge. It also has screenshots of the results of the scripts.
 
 The script loops through all the stocks for one year and outputs the following information:
 The ticker symbol
